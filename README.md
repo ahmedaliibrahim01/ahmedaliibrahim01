@@ -1,6 +1,6 @@
 <h2> Hello there, I'm Ahmed Ali <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
+<img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="110" width='110'/>
 
 I am a software engineer who loves designing and building distributed, scalable systems using Java. My interests are in microservices and software architecture. I also enjoy collaborating and sharing knowledge.
 
