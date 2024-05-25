@@ -2,6 +2,10 @@
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="110" width='110'/>
 
+I graduated from Daaru-Salaam University, Faculty of Computer Science, Department of Information Technology in June 2024. My education provided a comprehensive understanding of Information Technology, covering a wide range of courses from fundamental computer science principles to advanced topics. 
+
+I further honed my skills by successfully completing the Patika+ Backend Development Bootcamp. 
+
 I am a software engineer who loves designing and building distributed, scalable systems using Java. My interests are in microservices and software architecture. I also enjoy collaborating and sharing knowledge.
 
 ## 👨‍💻 Professional Skills
