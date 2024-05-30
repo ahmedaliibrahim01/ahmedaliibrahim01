@@ -1,4 +1,4 @@
-<h2> Hello there, I'm Ahmed Ali <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
+<h2> Hello there, I'm Ahmed Ali 👋
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="110" width='110'/>
 
