@@ -21,6 +21,7 @@ I have developed projects using Java Spring Boot in particular and I am a softwa
 <p align="left">
 <a href="https://twitter.com/ahmedali_azhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedali_azhar" height="25" width="50" /></a>
 <a href="https://linkedin.com/in/ahmedaliibrahim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedaliibrahim/" height="25" width="40" /></a>
+<a href="mailto:ahmedaliibrahim01@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ahmedaliibrahim01@gmail.com" height="25" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
