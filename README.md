@@ -1,4 +1,4 @@
-<h2> Hello there, I'm Ahmed Ali 👋
+<h2> Hello there, I'm Ahmed Ali 👋 </h2>
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="110" width='110'/>
 
