@@ -1,12 +1,8 @@
-<h2> Hello there, I'm Ahmed Ali 👋 </h2>
+![image](https://github.com/user-attachments/assets/96a52f89-0389-4de1-bbe8-fd84fbe42241)<h2> Hello there, I'm Ahmed Ali 👋 </h2>
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="110" width='110'/>
 
-I graduated from Daaru-Salaam University, Faculty of Computer Science, Department of Information Technology in June 2024. My education provided a comprehensive understanding of Information Technology, covering a wide range of courses from fundamental computer science principles to advanced topics.
-
-I further honed my skills by successfully completing the Patika+ Backend Development Bootcamp.
-
-I have developed projects using Java Spring Boot in particular and I am a software engineer who loves to design and build distributed, scalable systems using Java. My interests are microservices and software architecture. I also enjoy collaborating and sharing knowledge.
+My name is Ahmed. I have actively worked on various projects to facilitate the lives of Somali students through education and social initiatives. I volunteered at the Ihlas Foundation, coordinating services, and as the founding president of the Somkaal Association, I supported students struggling with educational expenses. Additionally, I founded Kaafi Group, providing services in health tourism, import-export, and education consulting. I gained experience in marketing and product development by selling over 8,000 products on Amazon. I also participated in Patika's Developer Bootcamp program, acquiring skills in the IT field. I have career goals in entrepreneurship, business development, sales, marketing, human resources, foreign trade, finance, and operations.
 
 ## 👨‍💻 Professional Skills
 
