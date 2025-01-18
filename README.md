@@ -2,7 +2,11 @@
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" height="110" width='110'/>
 
-My name is Ahmed. I have actively worked on various projects to facilitate the lives of Somali students through education and social initiatives. I volunteered at the Ihlas Foundation, coordinating services, and as the founding president of the Somkaal Association, I supported students struggling with educational expenses. Additionally, I founded Kaafi Group, providing services in health tourism, import-export, and education consulting. I gained experience in marketing and product development by selling over 8,000 products on Amazon. I also participated in Patika's Developer Bootcamp program, acquiring skills in the IT field. I have career goals in entrepreneurship, business development, sales, marketing, human resources, foreign trade, finance, and operations.
+I graduated from the Faculty of Computer Science at Daaru-Salaam University in July 2024. My education provided me with a comprehensive understanding of Information Technology, covering a wide range of courses, from fundamental computer science principles to advanced topics.
+
+I further enhanced my skills by successfully completing the Patika+ Backend Development Bootcamp.
+
+I have developed projects primarily using Java Spring Boot and am a passionate software engineer who enjoys designing and building distributed, scalable systems with Java. My key areas of interest include microservices and software architecture. I also take pleasure in collaborating with others and sharing knowledge.
 
 ## 👨‍💻 Professional Skills
 
